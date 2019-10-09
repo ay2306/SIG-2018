@@ -6,7 +6,7 @@
 - Platform to prove yourself
 ## What we will cover?
 1. Introduction to why algorithms are important and why they are important part of being a Computer Programmer
-2. Big-O, Big-theta, Big-Ohmega Notations
+2. Big-O, Big-theta, Big-Ohmega Notations this includes time complexity and space complexity and also way to avoid tle error in program
 3. Problem format
     - Problem statement
     - Input
@@ -59,6 +59,7 @@
     - Trie
 7. Mathematics
     - Euclid's GCD
+    -Mobius function
     - Prime Numbers
     - Sieve of Eratosthene
     - Golbach Conjecture
@@ -82,5 +83,6 @@
     - Binary Search
     - Linear Search
     - Kardane's Algorithm
+    -Greedy algorithm
 
 \* If class has reached level to study that topic.
