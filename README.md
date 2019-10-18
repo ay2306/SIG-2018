@@ -17,6 +17,7 @@
 5. Algorithm paradigms
    - Brute force
    - Divide and Conquer
+   - Transform and Conquer
    - Greedy
    - Dynamic Programming
 6. Data Structures and their algorithms
@@ -56,7 +57,7 @@
         - Few important stack questions
     - Queue
         - Will be done before BFS traversal
-    - Trie
+    - Tree
 7. Mathematics
     - Euclid's GCD
     - Prime Numbers
@@ -72,12 +73,16 @@
     - Queue
     - Priority Queue
     - Stack
-    - Deque
+    - Dequeue
     - Important STL Functions
 9. Important Algorithms that needs to be covered as well
     - Sorting
+        - Bubble Sort
+        - Selection Sort
         - Quick Sort
+        - Insertion Sort
         - Counting Sort
+        - Merge Sort
         - Radix Sort
     - Binary Search
     - Linear Search
